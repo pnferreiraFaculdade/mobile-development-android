@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+<string name="app_name">Dices</string>
+<string name="but_sortear">Draw</string>
+    <string name="computador">Computer:</string>
+    <string name="jogador">Player:</string>
+</resources>

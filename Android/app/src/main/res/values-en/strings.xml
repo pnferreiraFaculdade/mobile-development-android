@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="label_nome">Name:</string>
+    <string name="but_salvar">Save</string>
+    <string name="msg_seu_nome">Your name is:\ </string>
+</resources>
