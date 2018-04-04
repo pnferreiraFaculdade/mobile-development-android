@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="img_principal">92dp</dimen>
+    <dimen name="margin_padding_padrao">16dp</dimen>
+    <dimen name="nome">24sp</dimen>
+    <dimen name="email">16sp</dimen>
+</resources>

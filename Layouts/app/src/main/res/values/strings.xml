@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="maria_da_silva">Maria da Silva</string>
+    <string name="email">mariadasilva@fiap.com.br</string>
+    <string name="sair">Sair</string>
+    <string name="absolute_layout">Absolute Layout</string>
+    <string name="digite_seu_usuario">Digite seu usuario</string>
+    <string name="login">Login</string>
+    <string name="table_layout">Table Layout</string>
+    <string name="bot_o">Botão</string>
+    <string name="bot_o">Botão</string>
+</resources>
