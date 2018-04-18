@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/abrir_alert_dialog"
+        android:onClick="abrirAlertDialog"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/abrir_progress_dialog"
+        android:onClick="abrirProgressDialog"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/abrir_date_picker_dialog"
+        android:onClick="abrirDatePickerDialog"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/abrir_time_picker_dialog"
+        android:onClick="abrirTimePickerDialog"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/abrir_dialog_personalizado"
+        android:onClick="abrirDialogPersonalizado"/>
+</LinearLayout>

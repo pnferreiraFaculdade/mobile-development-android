@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="abrir_alert_dialog">Abrir Alert Dialog</string>
+    <string name="eu_sou_um_alert_dialog">Eu sou um Alert Dialog</string>
+    <string name="coneudo_do_alert">Conteúdo do Alert</string>
+    <string name="ok">OK</string>
+    <string name="cliquei_em_ok">Cliquei em ok</string>
+    <string name="abrir_progress_dialog">Abrir Progress Dialog</string>
+    <string name="eu_sou_um_progress_dialog">Eu sou um Progress Dialog</string>
+    <string name="aguarde">Aguarde</string>
+    <string name="abrir_date_picker_dialog">Abrir Date Picker Dialog</string>
+    <string name="abrir_time_picker_dialog">Abrir Time Picker Dialog</string>
+    <string name="abrir_dialog_personalizado">Abrir Dialog Personalizado</string>
+    <string name="eu_sou_um_dialog_personalizado">Eu sou um Dialog Personalizado</string>
+    <string name="persolazido">Personalizado</string>
+</resources>
